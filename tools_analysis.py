@@ -135,6 +135,19 @@ def predict_season_scores_team(team, year):
 # LINEAR REGRESSION ANALYSIS
 def heuristic_linear_regression(team1, year1, team2, year2):
     """
+    Predicts the scores between 2 teams
+    Wrapper function to easily swap different versions without refactoring code
+    :param team1:
+    :param year1:
+    :param team2:
+    :param year2:
+    :return: [Team1 Score, Team2 Score]
+    """
+    return heuristic_linear_regression_v2(team1, year1, team2, year2)
+
+
+def heuristic_linear_regression_v2(team1, year1, team2, year2):
+    """
     Returns the final spread of two given teams
     :param team1:
     :param year1:
@@ -170,7 +183,7 @@ def heuristic_linear_regression(team1, year1, team2, year2):
     return [t1, t2]
 
 
-def heuristic_linear_regressionx(team1, year1, team2, year2):
+def heuristic_linear_regression_v1(team1, year1, team2, year2):
     """
     Returns the final score of two given teams
     :param team1:
