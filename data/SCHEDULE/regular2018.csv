@@ -1,0 +1,257 @@
+WEEK, DATE, HOME, AWAY, WIN, PTS W, PTS L, YDS W, YDS L
+1, 6 September 2018, PHI, ATL, AWAY, 18, 12, 232, 299
+1, 9 September 2018, NE, HOU, AWAY, 27, 20, 389, 325
+1, 9 September 2018, NO, TB, AWAY, 48, 40, 529, 475
+1, 9 September 2018, CLE, PIT, TIE, 21, 21, 472, 327
+1, 9 September 2018, IND, CIN, AWAY, 34, 23, 330, 380
+1, 9 September 2018, MIA, TEN, AWAY, 27, 20, 342, 336
+1, 9 September 2018, NYG, JAX, AWAY, 20, 15, 305, 324
+1, 9 September 2018, MIN, SF, AWAY, 24, 16, 343, 327
+1, 9 September 2018, BAL, BUF, AWAY, 47, 3, 369, 153
+1, 9 September 2018, LAC, KC, AWAY, 38, 28, 362, 541
+1, 9 September 2018, DEN, SEA, AWAY, 27, 24, 470, 306
+1, 9 September 2018, ARI, WAS, HOME, 24, 6, 429, 213
+1, 9 September 2018, CAR, DAL, HOME, 16, 8, 293, 232
+1, 9 September 2018, GB, CHI, AWAY, 24, 23, 370, 294
+1, 10 September 2018, DET, NYJ, AWAY, 48, 17, 349, 339
+1, 10 September 2018, OAK, LAR, AWAY, 33, 13, 365, 395
+2, 13 September 2018, CIN, BAL, AWAY, 34, 23, 373, 425
+2, 16 September 2018, BUF, LAC, AWAY, 31, 20, 349, 293
+2, 16 September 2018, TEN, HOU, AWAY, 20, 17, 283, 437
+2, 16 September 2018, GB, MIN, TIE, 29, 29, 480, 351
+2, 16 September 2018, PIT, KC, AWAY, 42, 37, 449, 475
+2, 16 September 2018, NO, CLE, AWAY, 21, 18, 275, 327
+2, 16 September 2018, TB, PHI, AWAY, 27, 21, 436, 412
+2, 16 September 2018, NYJ, MIA, AWAY, 20, 12, 257, 362
+2, 16 September 2018, ATL, CAR, AWAY, 31, 24, 442, 439
+2, 16 September 2018, WAS, IND, HOME, 21, 9, 281, 334
+2, 16 September 2018, SF, DET, AWAY, 30, 27, 346, 427
+2, 16 September 2018, LAR, ARI, AWAY, 34, 0, 432, 137
+2, 16 September 2018, DEN, OAK, AWAY, 20, 19, 385, 373
+2, 16 September 2018, JAX, NE, AWAY, 31, 20, 480, 302
+2, 16 September 2018, DAL, NYG, AWAY, 20, 13, 298, 255
+2, 17 September 2018, CHI, SEA, AWAY, 24, 17, 271, 276
+3, 20 September 2018, CLE, NYJ, AWAY, 21, 17, 323, 268
+3, 23 September 2018, PHI, IND, AWAY, 20, 16, 379, 209
+3, 23 September 2018, CAR, CIN, AWAY, 31, 21, 377, 396
+3, 23 September 2018, JAX, TEN, AWAY, 9, 6, 233, 232
+3, 23 September 2018, MIN, BUF, HOME, 27, 6, 292, 292
+3, 23 September 2018, HOU, NYG, AWAY, 27, 22, 379, 427
+3, 23 September 2018, WAS, GB, AWAY, 31, 17, 386, 340
+3, 23 September 2018, BAL, DEN, AWAY, 27, 14, 342, 293
+3, 23 September 2018, KC, SF, AWAY, 38, 27, 384, 406
+3, 23 September 2018, MIA, OAK, AWAY, 28, 20, 373, 434
+3, 23 September 2018, ATL, NO, AWAY, 43, 37, 534, 407
+3, 23 September 2018, LAR, LAC, AWAY, 35, 23, 521, 356
+3, 23 September 2018, SEA, DAL, AWAY, 24, 13, 295, 303
+3, 23 September 2018, ARI, CHI, AWAY, 16, 14, 316, 221
+3, 23 September 2018, DET, NE, AWAY, 26, 10, 414, 209
+3, 24 September 2018, TB, PIT, AWAY, 30, 27, 413, 455
+4, 27 September 2018, LAR, MIN, AWAY, 38, 31, 556, 446
+4, 30 September 2018, NE, MIA, HOME, 38, 7, 449, 172
+4, 30 September 2018, ATL, CIN, AWAY, 37, 36, 407, 495
+4, 30 September 2018, IND, HOU, AWAY, 37, 34, 466, 478
+4, 30 September 2018, JAX, NYJ, AWAY, 31, 12, 503, 178
+4, 30 September 2018, DAL, DET, AWAY, 26, 24, 414, 382
+4, 30 September 2018, TEN, PHI, AWAY, 26, 23, 397, 432
+4, 30 September 2018, GB, BUF, AWAY, 22, 0, 423, 145
+4, 30 September 2018, CHI, TB, AWAY, 48, 10, 483, 311
+4, 30 September 2018, OAK, CLE, AWAY, 45, 42, 565, 487
+4, 30 September 2018, ARI, SEA, AWAY, 20, 17, 331, 263
+4, 30 September 2018, LAC, SF, AWAY, 29, 27, 368, 364
+4, 30 September 2018, NYG, NO, AWAY, 33, 18, 389, 299
+4, 30 September 2018, PIT, BAL, AWAY, 26, 14, 451, 284
+4, 1 October 2018, DEN, KC, AWAY, 27, 23, 446, 385
+5, 4 October 2018, NE, IND, AWAY, 38, 24, 438, 439
+5, 7 October 2018, CAR, NYG, AWAY, 33, 31, 350, 432
+5, 7 October 2018, BUF, TEN, AWAY, 13, 12, 223, 221
+5, 7 October 2018, DET, GB, AWAY, 31, 23, 264, 521
+5, 7 October 2018, NYJ, DEN, AWAY, 34, 16, 512, 436
+5, 7 October 2018, CLE, BAL, HOME, 12, 9, 416, 410
+5, 7 October 2018, PIT, ATL, AWAY, 41, 17, 381, 324
+5, 7 October 2018, KC, JAX, AWAY, 30, 14, 424, 502
+5, 7 October 2018, CIN, MIA, AWAY, 27, 17, 332, 297
+5, 7 October 2018, LAC, OAK, AWAY, 26, 10, 412, 289
+5, 7 October 2018, PHI, MIN, AWAY, 23, 21, 375, 364
+5, 7 October 2018, SEA, LAR, AWAY, 33, 31, 468, 373
+5, 7 October 2018, SF, ARI, AWAY, 28, 18, 220, 447
+5, 7 October 2018, HOU, DAL, AWAY, 19, 16, 462, 292
+5, 8 October 2018, NO, WAS, AWAY, 43, 19, 447, 283
+6, 11 October 2018, NYG, PHI, AWAY, 34, 13, 379, 401
+6, 14 October 2018, MIA, CHI, AWAY, 31, 28, 541, 467
+6, 14 October 2018, WAS, CAR, AWAY, 23, 17, 288, 350
+6, 14 October 2018, CIN, PIT, AWAY, 28, 21, 481, 275
+6, 14 October 2018, OAK, SEA, HOME, 27, 3, 369, 185
+6, 14 October 2018, HOU, BUF, AWAY, 20, 13, 216, 229
+6, 14 October 2018, CLE, LAC, AWAY, 38, 14, 449, 317
+6, 14 October 2018, ATL, TB, AWAY, 34, 29, 417, 510
+6, 14 October 2018, MIN, ARI, AWAY, 27, 17, 411, 268
+6, 14 October 2018, NYJ, IND, AWAY, 42, 34, 374, 428
+6, 14 October 2018, DEN, LAR, AWAY, 23, 20, 444, 357
+6, 14 October 2018, DAL, JAX, HOME, 40, 7, 378, 204
+6, 14 October 2018, TEN, BAL, AWAY, 21, 0, 361, 106
+6, 14 October 2018, NE, KC, AWAY, 43, 40, 500, 446
+6, 15 October 2018, GB, SF, AWAY, 33, 30, 521, 401
+7, 18 October 2018, ARI, DEN, AWAY, 45, 10, 309, 223
+7, 21 October 2018, LAC, TEN, AWAY, 20, 19, 344, 390
+7, 21 October 2018, CHI, NE, AWAY, 38, 31, 381, 453
+7, 21 October 2018, MIA, DET, AWAY, 32, 21, 457, 322
+7, 21 October 2018, PHI, CAR, AWAY, 21, 17, 371, 342
+7, 21 October 2018, NYJ, MIN, AWAY, 37, 17, 316, 263
+7, 21 October 2018, IND, BUF, HOME, 37, 5, 376, 303
+7, 21 October 2018, TB, CLE, AWAY, 26, 23, 456, 305
+7, 21 October 2018, JAX, HOU, HOME, 20, 7, 272, 259
+7, 21 October 2018, BAL, NO, AWAY, 24, 23, 339, 351
+7, 21 October 2018, WAS, DAL, AWAY, 20, 17, 305, 323
+7, 21 October 2018, SF, LAR, AWAY, 39, 10, 339, 228
+7, 21 October 2018, KC, CIN, AWAY, 45, 10, 551, 239
+7, 22 October 2018, ATL, NYG, AWAY, 23, 20, 423, 433
+8, 25 October 2018, HOU, MIA, AWAY, 42, 23, 427, 370
+8, 28 October 2018, JAX, PHI, AWAY, 24, 18, 395, 335
+8, 28 October 2018, CAR, BAL, AWAY, 36, 21, 386, 325
+8, 28 October 2018, CHI, NYJ, AWAY, 24, 10, 395, 207
+8, 28 October 2018, DET, SEA, AWAY, 28, 14, 413, 331
+8, 28 October 2018, NYG, WAS, AWAY, 20, 13, 360, 303
+8, 28 October 2018, PIT, CLE, AWAY, 33, 18, 421, 237
+8, 28 October 2018, CIN, TB, AWAY, 37, 34, 402, 576
+8, 28 October 2018, KC, DEN, AWAY, 30, 23, 340, 411
+8, 28 October 2018, OAK, IND, AWAY, 42, 28, 461, 347
+8, 28 October 2018, LAR, GB, AWAY, 29, 27, 416, 359
+8, 28 October 2018, ARI, SF, AWAY, 18, 15, 321, 267
+8, 28 October 2018, MIN, NO, AWAY, 30, 20, 270, 423
+8, 29 October 2018, BUF, NE, HOME, 25, 6, 387, 333
+9, 1 November 2018, SF, OAK, AWAY, 34, 3, 405, 242
+9, 4 November 2018, MIN, DET, HOME, 24, 9, 283, 209
+9, 4 November 2018, BAL, PIT, AWAY, 23, 16, 395, 265
+9, 4 November 2018, WAS, ATL, AWAY, 38, 14, 491, 366
+9, 4 November 2018, CAR, TB, AWAY, 42, 28, 407, 301
+9, 4 November 2018, BUF, CHI, HOME, 41, 9, 190, 264
+9, 4 November 2018, CLE, KC, AWAY, 37, 21, 499, 388
+9, 4 November 2018, MIA, NYJ, HOME, 13, 6, 168, 275
+9, 4 November 2018, SEA, LAC, AWAY, 25, 17, 375, 356
+9, 4 November 2018, DEN, HOU, AWAY, 19, 17, 290, 348
+9, 4 November 2018, NO, LAR, AWAY, 45, 35, 487, 483
+9, 4 November 2018, NE, GB, AWAY, 31, 17, 433, 367
+9, 5 November 2018, DAL, TEN, AWAY, 28, 14, 340, 297
+10, 8 November 2018, PIT, CAR, AWAY, 52, 21, 457, 242
+10, 11 November 2018, IND, JAX, AWAY, 29, 26, 366, 415
+10, 11 November 2018, CLE, ATL, AWAY, 28, 16, 427, 382
+10, 11 November 2018, KC, ARI, AWAY, 26, 14, 330, 260
+10, 11 November 2018, TB, WAS, HOME, 16, 3, 286, 501
+10, 11 November 2018, CIN, NO, AWAY, 51, 14, 509, 284
+10, 11 November 2018, CHI, DET, AWAY, 34, 22, 402, 305
+10, 11 November 2018, NYJ, BUF, AWAY, 41, 10, 451, 199
+10, 11 November 2018, TEN, NE, AWAY, 34, 10, 385, 284
+10, 11 November 2018, OAK, LAC, HOME, 20, 6, 335, 317
+10, 11 November 2018, GB, MIA, AWAY, 31, 12, 377, 294
+10, 11 November 2018, LAR, SEA, AWAY, 36, 31, 456, 414
+10, 11 November 2018, PHI, DAL, AWAY, 27, 20, 410, 421
+10, 12 November 2018, SF, NYG, AWAY, 27, 23, 277, 374
+11, 15 November 2018, SEA, GB, TIE, , , , 
+11, 18 November 2018, BAL, CIN, TIE, , , , 
+11, 18 November 2018, JAX, PIT, TIE, , , , 
+11, 18 November 2018, NYG, TB, TIE, , , , 
+11, 18 November 2018, WAS, HOU, TIE, , , , 
+11, 18 November 2018, DET, CAR, TIE, , , , 
+11, 18 November 2018, ATL, DAL, TIE, , , , 
+11, 18 November 2018, IND, TEN, TIE, , , , 
+11, 18 November 2018, LAC, DEN, TIE, , , , 
+11, 18 November 2018, ARI, OAK, TIE, , , , 
+11, 18 November 2018, NO, PHI, TIE, , , , 
+11, 18 November 2018, CHI, MIN, TIE, , , , 
+11, 19 November 2018, LAR, KC, TIE, , , , 
+12, 22 November 2018, DET, CHI, TIE, , , , 
+12, 22 November 2018, DAL, WAS, TIE, , , , 
+12, 22 November 2018, NO, ATL, TIE, , , , 
+12, 25 November 2018, BUF, JAX, TIE, , , , 
+12, 25 November 2018, BAL, OAK, TIE, , , , 
+12, 25 November 2018, NYJ, NE, TIE, , , , 
+12, 25 November 2018, CAR, SEA, TIE, , , , 
+12, 25 November 2018, PHI, NYG, TIE, , , , 
+12, 25 November 2018, TB, SF, TIE, , , , 
+12, 25 November 2018, CIN, CLE, TIE, , , , 
+12, 25 November 2018, LAC, ARI, TIE, , , , 
+12, 25 November 2018, IND, MIA, TIE, , , , 
+12, 25 November 2018, DEN, PIT, TIE, , , , 
+12, 25 November 2018, MIN, GB, TIE, , , , 
+12, 26 November 2018, HOU, TEN, TIE, , , , 
+13, 29 November 2018, DAL, NO, TIE, , , , 
+13, 2 December 2018, MIA, BUF, TIE, , , , 
+13, 2 December 2018, ATL, BAL, TIE, , , , 
+13, 2 December 2018, GB, ARI, TIE, , , , 
+13, 2 December 2018, NYG, CHI, TIE, , , , 
+13, 2 December 2018, JAX, IND, TIE, , , , 
+13, 2 December 2018, CIN, DEN, TIE, , , , 
+13, 2 December 2018, DET, LAR, TIE, , , , 
+13, 2 December 2018, TB, CAR, TIE, , , , 
+13, 2 December 2018, PIT, LAC, TIE, , , , 
+13, 2 December 2018, HOU, CLE, TIE, , , , 
+13, 2 December 2018, TEN, NYJ, TIE, , , , 
+13, 2 December 2018, OAK, KC, TIE, , , , 
+13, 2 December 2018, NE, MIN, TIE, , , , 
+13, 2 December 2018, SEA, SF, TIE, , , , 
+13, 3 December 2018, PHI, WAS, TIE, , , , 
+14, 6 December 2018, TEN, JAX, TIE, , , , 
+14, 9 December 2018, MIA, NE, TIE, , , , 
+14, 9 December 2018, KC, BAL, TIE, , , , 
+14, 9 December 2018, BUF, NYJ, TIE, , , , 
+14, 9 December 2018, GB, ATL, TIE, , , , 
+14, 9 December 2018, HOU, IND, TIE, , , , 
+14, 9 December 2018, TB, NO, TIE, , , , 
+14, 9 December 2018, CHI, LAR, TIE, , , , 
+14, 9 December 2018, CLE, CAR, TIE, , , , 
+14, 9 December 2018, WAS, NYG, TIE, , , , 
+14, 9 December 2018, LAC, CIN, TIE, , , , 
+14, 9 December 2018, SF, DEN, TIE, , , , 
+14, 9 December 2018, ARI, DET, TIE, , , , 
+14, 9 December 2018, DAL, PHI, TIE, , , , 
+14, 9 December 2018, OAK, PIT, TIE, , , , 
+14, 10 December 2018, SEA, MIN, TIE, , , , 
+15, 13 December 2018, KC, LAC, TIE, , , , 
+15, 15 December 2018, NYJ, HOU, TIE, , , , 
+15, 15 December 2018, DEN, CLE, TIE, , , , 
+15, 16 December 2018, IND, DAL, TIE, , , , 
+15, 16 December 2018, CHI, GB, TIE, , , , 
+15, 16 December 2018, NYG, TEN, TIE, , , , 
+15, 16 December 2018, JAX, WAS, TIE, , , , 
+15, 16 December 2018, CIN, OAK, TIE, , , , 
+15, 16 December 2018, BUF, DET, TIE, , , , 
+15, 16 December 2018, ATL, ARI, TIE, , , , 
+15, 16 December 2018, MIN, MIA, TIE, , , , 
+15, 16 December 2018, BAL, TB, TIE, , , , 
+15, 16 December 2018, SF, SEA, TIE, , , , 
+15, 16 December 2018, PIT, NE, TIE, , , , 
+15, 16 December 2018, LAR, PHI, TIE, , , , 
+15, 17 December 2018, CAR, NO, TIE, , , , 
+16, 22 December 2018, TEN, WAS, TIE, , , , 
+16, 23 December 2018, LAC, BAL, TIE, , , , 
+16, 23 December 2018, IND, NYG, TIE, , , , 
+16, 23 December 2018, NYJ, GB, TIE, , , , 
+16, 23 December 2018, NE, BUF, TIE, , , , 
+16, 23 December 2018, CLE, CIN, TIE, , , , 
+16, 23 December 2018, MIA, JAX, TIE, , , , 
+16, 23 December 2018, DET, MIN, TIE, , , , 
+16, 23 December 2018, DAL, TB, TIE, , , , 
+16, 23 December 2018, CAR, ATL, TIE, , , , 
+16, 23 December 2018, PHI, HOU, TIE, , , , 
+16, 23 December 2018, ARI, LAR, TIE, , , , 
+16, 23 December 2018, SF, CHI, TIE, , , , 
+16, 23 December 2018, NO, PIT, TIE, , , , 
+16, 23 December 2018, SEA, KC, TIE, , , , 
+16, 24 December 2018, OAK, DEN, TIE, , , , 
+17, 30 December 2018, WAS, PHI, TIE, , , , 
+17, 30 December 2018, NO, CAR, TIE, , , , 
+17, 30 December 2018, NYG, DAL, TIE, , , , 
+17, 30 December 2018, BAL, CLE, TIE, , , , 
+17, 30 December 2018, KC, OAK, TIE, , , , 
+17, 30 December 2018, GB, DET, TIE, , , , 
+17, 30 December 2018, HOU, JAX, TIE, , , , 
+17, 30 December 2018, PIT, CIN, TIE, , , , 
+17, 30 December 2018, BUF, MIA, TIE, , , , 
+17, 30 December 2018, NE, NYJ, TIE, , , , 
+17, 30 December 2018, MIN, CHI, TIE, , , , 
+17, 30 December 2018, TEN, IND, TIE, , , , 
+17, 30 December 2018, TB, ATL, TIE, , , , 
+17, 30 December 2018, LAR, SF, TIE, , , , 
+17, 30 December 2018, DEN, LAC, TIE, , , , 
+17, 30 December 2018, SEA, ARI, TIE, , , , 

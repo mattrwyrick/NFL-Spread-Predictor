@@ -1,0 +1,15 @@
+## Project ##
+Uses Linear Regression to predict scores and spreads for NFL games
+
+
+## Requirements ##
+https://scikit-learn.org/stable/install.html
+
+
+## Issues ##
+1. CSVs have leading spaces in values. Currently strips space on read, should not have leading space in file though.
+2. No handling/analysis for betting strategy yet
+
+
+## Running the Project ##
+After the dependencies have been installed, run run.py with python3
